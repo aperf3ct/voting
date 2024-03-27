@@ -12,7 +12,7 @@ def check_age():
         except ValueError:
             print("Please enter a valid age")
 
-
+#jack is here
 # Variables
 name = input("What is your name? ")
 nz_resident = input("Are you a New Zealand resident? ")
